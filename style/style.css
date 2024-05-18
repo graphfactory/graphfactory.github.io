@@ -84,7 +84,7 @@ canvas.particles-js-canvas-el{
 }
 .hero_section .row img{
     width: 100%;
-    border-radius: 80%;
+    border-radius: 100%;
 }
 
 @media (max-width: 1200px) and (min-width: 993px){
@@ -138,13 +138,13 @@ canvas.particles-js-canvas-el{
         width: 0px;
     }
     .hero_section .btn_container button{
-        width: 250px;
+        width: 300px;
         height: 43px;
         font-size: 15px;
         text-align: center;
     }
     .hero_section img{
-        width: 60%;
+        width: 100%;
         margin-top: 20px;
     }
 }
