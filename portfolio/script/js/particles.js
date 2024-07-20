@@ -44,7 +44,7 @@ particlesJS('particles-js', {
 			random: true,
 			anim: {
 				enable: false,
-				speed: 2,
+				speed: 1,
 				size_min: 10,
 				sync: false
 			}
@@ -58,7 +58,7 @@ particlesJS('particles-js', {
 		},
 		move: {
 			enable: true,
-			speed: 2,
+			speed: 1,
 			direction: 'none',
 			random: false,
 			straight: false,
@@ -66,8 +66,8 @@ particlesJS('particles-js', {
 			bounce: false,
 			attract: {
 				enable: false,
-				rotateX: 600,
-				rotateY: 1200
+				rotateX: 1200,
+				rotateY: 2400
 			}
 		}
 	},
