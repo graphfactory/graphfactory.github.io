@@ -115,7 +115,7 @@ canvas.particles-js-canvas-el{
 
 /*===== LAYOUT =====*/
 .bd-grid{
-  max-width: 1024px;
+  max-width: 2048px;
   display: grid;
   grid-template-columns: 100%;
   grid-column-gap: 2rem;
