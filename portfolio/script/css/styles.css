@@ -147,7 +147,7 @@ canvas.particles-js-canvas-el{
     top: var(--header-height);
     right: -100%;
     width: 80%;
-    height: 100%;
+    height: 150%;
     padding: 2rem;
     background-color: var(--second-color);
     transition: .5s;
@@ -167,7 +167,7 @@ canvas.particles-js-canvas-el{
   position: absolute;
   content: "";
   width: 100%;
-  height: 0.18rem;
+  height: 0.32rem;
   left: 0;
   top: 2rem;
   background-color: var(--first-color);
